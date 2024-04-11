@@ -1,4 +1,4 @@
 Meu site
 
 Criação das páginas do site
-Script da estrutura em html e css sendo desenvolvido 
+Script do html e css que estou desenvolvendopara criar as páginas e estrutura do site
